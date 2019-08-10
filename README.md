@@ -29,3 +29,5 @@ https://sourceforge.net/projects/sakura-editor/
 ２．ZIPファイルをどこかに（デスクトップなど）解凍しましょう。
 
 ３．「0_introduction.txt」を開いて学習を進めましょう。
+
+わからないことがあったらLINEで聞いてね。
