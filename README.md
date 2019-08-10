@@ -22,8 +22,6 @@ https://sourceforge.net/projects/sakura-editor/
 
 ダウンロードが終わったら、サクラエディタをインストールしましょう。すでにインストールされている場合はこの作業は必要ありません。
 
-===============
-
 ★学習の進め方
 -
 １．「Clone or Download」ボタンを押して、「Download ZIP」ボタンを押しましょう。ZIPファイルがダウンロードされます。
