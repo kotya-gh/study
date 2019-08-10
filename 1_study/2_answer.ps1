@@ -10,9 +10,3 @@ Write-Host "`"`"`""
 # -------------------------------------------------
 
 Write-Host "配点：6点"
-
-[System.Convert]::ToChar(0x03bc)
-[System.Convert]::ToInt32(0x03bc, 10)
-
-786
-956
